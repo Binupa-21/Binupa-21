@@ -77,22 +77,6 @@ I have hands-on experience developing:
 
 </p>
 
-## Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
-
-</p>
-
-## Backend & Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase"/>
-
-</p>
-
 ## Cloud, DevOps & Tooling
 
 <p align="center">
