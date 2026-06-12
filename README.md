@@ -1,373 +1,231 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:9333EA&text=Binupa%20Ariyarathna&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Computer+Engineering+Undergraduate;Software+Engineer+%7C+Full+Stack+Developer;AI+%26+IoT+Enthusiast;Problem+Solver+%7C+Open+Source+Learner;Building+Practical+Technology+Solutions"/>
-
-<br/>
-
-![University](https://img.shields.io/badge/University-University%20of%20Sri%20Jayewardenepura-6D28D9?style=for-the-badge)
-![Faculty](https://img.shields.io/badge/Faculty-Engineering-7C3AED?style=for-the-badge)
-![Major](https://img.shields.io/badge/Major-Computer%20Engineering-8B5CF6?style=for-the-badge)
-![Minor](https://img.shields.io/badge/Minor-High%20Performance%20Computing-6366F1?style=for-the-badge)
-
-<br/>
-
-![Location](https://img.shields.io/badge/Location-Sri%20Lanka-4338CA?style=for-the-badge)
-
-<a href="https://github.com/Binupa-21">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-111827?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/binupa-ariyarathna">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:binupanuransit@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/Binupa-21">
-<img src="https://img.shields.io/badge/Profile-Visit-7C3AED?style=for-the-badge"/>
-</a>
-
-<br/><br/>
-
-![](https://komarev.com/ghpvc/?username=Binupa-21&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/Binupa-21?style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/stars/Binupa-21?affiliations=OWNER&style=for-the-badge&color=7C3AED)
-
-</div>
-
----
-
-# About Me
-
-I am a **Computer Engineering undergraduate** at the **University of Sri Jayewardenepura**, specializing in **Computer Engineering** with a minor in **High Performance Computing**.
-
-My interests span across **Software Engineering, Full Stack Development, Artificial Intelligence, IoT Systems, Mobile Development, Cloud Computing, and Scalable Product Engineering**. I enjoy designing practical solutions that combine software, hardware, and data-driven decision making to solve real-world challenges.
-
-I have hands-on experience developing:
-
-- Full-stack web applications
-- AR-based mobile applications
-- IoT monitoring systems
-- Cloud-integrated software solutions
-- C++ application development
-- Database-driven systems
-
-### Open To
-
-- Software Engineering Internships
-- Full Stack Development Roles
-- AI / ML Projects
-- Cloud & DevOps Learning Opportunities
-- Open Source Contributions
-- Research Collaborations
-
----
-
-# Tech Stack
-
-## Languages
+# <p align="center"> <img src="https://capsule-render.vercel.app/render?type=wave&color=6366f1&height=250&section=header&text=Binupa%20Ariyarathna&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Computer%20Engineering%20Undergraduate&descAlignY=55&descSize=20" width="100%"/> </p>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,kotlin,html,css"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;HPC+Specialist+in+Training;Problem+Solver" alt="Typing SVG" />
 </p>
 
-## Cloud, DevOps & Tooling
+<p align="center">
+  <a href="https://www.sjp.ac.lk/">
+    <img src="https://img.shields.io/badge/Education-University%20of%20Sri%20Jayewardenepura-6366f1?style=flat-square&logo=gitbook&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Colombo,%20Sri%20Lanka-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
 
 <p align="center">
+  <a href="mailto:binupanuransit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Connect-6366f1?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/binupa-ariyarathna">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Binupa-21">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-4C1D95?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,androidstudio,docker"/>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Binupa-21&label=PROFILE+VIEWS&style=flat-square&color=6366f1" />
+  <img src="https://img.shields.io/github/followers/Binupa-21?label=FOLLOWERS&style=flat-square&color=8B5CF6" />
+  <img src="https://img.shields.io/github/stars/Binupa-21?label=STARS&style=flat-square&color=4C1D95" />
 </p>
 
 ---
-<!--
-# AI / ML Expertise
+
+## 🚀 About Me
+
+I am a **Computer Engineering undergraduate** at the University of Sri Jayewardenepura with a specialized minor in **High Performance Computing**. My engineering philosophy revolves around building robust, scalable, and product-focused solutions that bridge the gap between complex hardware and user-centric software.
+
+*   🔭 **Software Engineering:** Deeply passionate about architecting efficient systems using C++, Kotlin, and Java.
+*   🧠 **AI/ML Expertise:** Actively exploring spatial computing and computer vision through AR-driven navigation systems.
+*   🌐 **Full Stack Development:** Experienced in building end-to-end applications, integrating cloud backends with responsive frontends.
+*   💡 **Product Mindset:** I focus on the "why" behind the code, ensuring every feature translates to real-world impact and user value.
+*   🤝 **Open To:** Collaborative research projects in HPC, internship opportunities in Tier-1 tech firms, and open-source contributions.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,kotlin,python,js,html,css" />
+</p>
+
+### 🎨 Frontend & Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,androidstudio,figma" />
+</p>
+
+### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,mongodb" />
+</p>
+
+### ☁️ Cloud, DevOps & Tooling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,clion,intellij" />
+</p>
+
+---
+
+## 🤖 AI / ML Expertise
 
 | Domain | Proficiency | Details |
-|----------|------------|------------|
-| Machine Learning | Intermediate | Model training, evaluation, feature engineering |
-| Data Analytics | Intermediate | Data preprocessing and visualization |
-| Computer Vision | Beginner–Intermediate | Image processing fundamentals |
-| IoT Analytics | Intermediate | Sensor-driven monitoring systems |
-| Predictive Systems | Intermediate | Real-time monitoring and decision support |
-| Cloud-Based AI | Beginner | Exploring AWS AI ecosystem |
--->
+| :--- | :--- | :--- |
+| **Computer Vision** | Intermediate | Implementing ARCore for real-time spatial mapping and environmental understanding. |
+| **Pathfinding Algos** | Advanced | Optimized A* implementations for indoor navigation in multi-floor environments. |
+| **HPC & Optimization** | Learning | Minor specialization focused on parallel processing and performance-critical computing. |
 
-# Featured Projects
+---
+
+## 🌟 Featured Projects
 
 <details>
-<summary><b>AquaSense — IoT Water Quality Monitoring System</b></summary>
+<summary><b>📍 Navix: AR Indoor Navigation Tool</b></summary>
+<br>
 
-### Overview
+**Description:** A cross-session AR navigation application designed to solve indoor positioning challenges where GPS is unavailable.
 
-A low-cost floating IoT platform for continuous water quality monitoring. Designed to provide real-time environmental insights for irrigation researchers and aquatic ecosystem monitoring.
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | Kotlin, ARCore, Google Cloud Anchors, Firebase |
+| **Scale** | Persistent multi-floor spatial mapping |
+| **Performance** | Real-time pathfinding using optimized A* algorithm |
+| **Security** | Firebase Auth & Firestore Security Rules |
+| **Impact** | Seamless indoor guidance with visual breadcrumbs |
+| **Repository** | [Private/Internal] |
 
-| Category | Details |
-|-----------|-----------|
-| Stack | ESP32, Sensors, IoT, Mobile Integration |
-| Scale | Real-time monitoring |
-| Performance | Continuous sensor acquisition |
-| Security | Secure cloud communication |
-| Impact | Early detection of hazardous water conditions |
-| Repository | Coming Soon |
-
-#### Highlights
-
-- Continuous pH monitoring
-- Turbidity tracking
-- TDS measurement
-- Mobile application integration
-- Environmental research support
-
+**Professional Explanation:** This project involved a deep dive into spatial persistence. By integrating Google Cloud Anchors with a Firestore backend, I enabled a persistent digital twin of physical buildings, allowing users to navigate complex structures with decimeter-level precision.
 </details>
 
 <details>
-<summary><b>Navix — AR Indoor Navigation System</b></summary>
+<summary><b>💧 AquaSense: IoT Water Quality Monitor</b></summary>
+<br>
 
-### Overview
+**Description:** A low-cost, long-life IoT solution for continuous monitoring of pH, TDS, and Turbidity for water irrigation researchers.
 
-An indoor navigation application developed using Kotlin and ARCore to solve GPS limitations in large indoor environments.
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | IoT Sensors, Battery-powered Microcontrollers, Mobile App |
+| **Scale** | Real-time continuous data streaming |
+| **Performance** | Ultra-low power consumption for long-term deployment |
+| **Security** | Encrypted sensor-to-cloud communication |
+| **Impact** | Detects algae blooms and spills before they become fatal |
+| **Repository** | [GitHub Link](https://github.com/Binupa-21) |
 
-| Category | Details |
-|-----------|-----------|
-| Stack | Kotlin, ARCore, Firebase, Cloud Anchors |
-| Scale | Multi-building navigation |
-| Performance | Real-time route rendering |
-| Security | Firebase Authentication |
-| Impact | Improved indoor wayfinding |
-| Repository | Private Academic Project |
-
-#### Highlights
-
-- AR breadcrumb guidance
-- Persistent cloud anchors
-- Indoor route optimization
-- Firebase synchronization
-- A* pathfinding implementation
-
+**Professional Explanation:** AquaSense addresses the "cost of lab visits" barrier. I engineered the firmware to prioritize power efficiency, ensuring the hardware can remain operational in remote aquatic environments for months on a single charge.
 </details>
 
 <details>
-<summary><b>NitroRush — C++ Arcade Game</b></summary>
+<summary><b>🏎️ Nitrorush: Arcade Game Engine</b></summary>
+<br>
 
-### Overview
+**Description:** A fast-paced arcade game built from the ground up to demonstrate core OOP principles and resource management.
 
-A fast-paced arcade game developed entirely in C++ using SFML, focusing on software architecture and game engine principles.
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | C++, SFML Library |
+| **Scale** | Robust state machine for game flow control |
+| **Performance** | High FPS rendering with static asset managers |
+| **Security** | Memory-safe resource handling |
+| **Impact** | Academic demonstration of high-performance C++ |
+| **Repository** | [GitHub Link](https://github.com/Binupa-21) |
 
-| Category | Details |
-|-----------|-----------|
-| Stack | C++, SFML |
-| Scale | Desktop Application |
-| Performance | Optimized game loop |
-| Security | Local application |
-| Impact | Demonstrates software engineering fundamentals |
-| Repository | Academic Project |
-
-#### Highlights
-
-- State machine architecture
-- Asset management system
-- Menu-to-game workflow
-- Modular game design
-- Resource optimization
-
-</details>
-
-<details>
-
-#### Highlights
-
-- User authentication
-- Responsive design
-- Modern UI/UX
-- Cloud integration
-- Interactive features
-
+**Professional Explanation:** Beyond just a game, Nitrorush served as a testbed for implementing professional-grade software patterns in C++. It features a custom resource manager to prevent memory leaks and a state-based architecture to handle complex UI transitions.
 </details>
 
 ---
 
-# Experience
+## 💼 Experience
 
-## Public Relations Team Member & Team Leader
-### Rotaract Club of University of Sri Jayewardenepura
-
-**2024 – Present**
-
-Contributed to event promotion, media coordination, content creation, and project execution under the Professional Development Avenue.
-
-### Scope of Work
-
-- Managed digital publicity campaigns
-- Designed promotional media content
-- Coordinated event communications
-- Led PR activities for selected projects
-- Collaborated with multidisciplinary teams
-
-### Skills
-
-`Leadership` `Communication` `Content Creation` `Video Editing` `Project Coordination`
+### **PR Team Leader / Member** | Rotaract Club of USJ
+**Feb 2024 - Present**
+*   Spearheaded digital media strategy for the Professional Development Avenue.
+*   Coordinated event promotion and project execution across multiple high-impact sessions.
+*   **Key Projects:** Venture Voice, Scholastic Coach, Yes'25.
+*   `Digital Media` `Leadership` `Project Management` `Video Editing`
 
 ---
 
-# Certifications
+## 🏆 Achievements
 
-## AWS
+<p align="center">
+  
+| Recognition | Details |
+| :--- | :--- |
+| **Best Video Editor** | Awarded for RI Year 2024-25 for outstanding creativity in digital media content. |
+| **GPA Excellence** | Currently maintaining a 3.37 GPA in Computer Engineering at USJ. |
 
-![AWS](https://img.shields.io/badge/AWS-Educate%20Introduction%20to%20Cloud%20101-FF9900?style=for-the-badge&logo=amazonaws)
-
-![AWS](https://img.shields.io/badge/AWS-Educate%20Getting%20Started%20with%20Storage-FF9900?style=for-the-badge&logo=amazonaws)
-
-<!--
-
-## Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Learning%20Path-C74634?style=for-the-badge&logo=oracle)
-
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Courses-5B21B6?style=for-the-badge)
-
-## Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco)
--->
----
-<!--
-# Coding Profiles
-
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
-</a>
-
-</div>*/
--->
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Binupa-21&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Binupa-21&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binupa-21&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# GitHub Trophies
+## 📜 Certifications
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Binupa-21&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Binupa-21&theme=tokyo-night&hide_border=true"/>
-
-</div>
+### **AWS (Amazon Web Services)**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-Getting%20Started%20with%20Storage-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Introduction%20to%20Cloud%20101-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+</p>
 
 ---
 
-# Contribution Snake
+## 📊 Coding Profiles
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Binupa-21/Binupa-21/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+<p align="left">
+  <a href="https://github.com/Binupa-21">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+  </a>
+  <a href="https://github.com/Binupa-21">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# Current Focus
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Binupa-21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=94A3B8" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Binupa-21&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&stroke=6366f1&currStreakLabel=6366f1" />
+</p>
+
+<p align="center">
+  <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binupa-21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=94A3B8" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Binupa-21&theme=tokyonight&no-bg=true&margin-w=15&column=7" />
+</p>
+
+---
+
+## 📅 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Binupa-21&theme=tokyo-night&bg_color=0D1117&color=8B5CF6&line=6366f1&point=A78BFA&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Binupa-21/Binupa-21/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎯 Current Focus
 
 ```yaml
-Learning:
-  - Cloud Computing
-  - Advanced Software Engineering
-  - Artificial Intelligence
-  - System Design
-
-Building:
-  - AquaSense IoT Platform
-  - Portfolio Enhancements
-  - Full Stack Applications
-
-Exploring:
-  - AWS Services
-  - DevOps Practices
-  - Scalable Architectures
-
-Open_To:
-  - Internships
-  - Open Source Collaboration
-  - Engineering Projects
-  - Research Opportunities
-```
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="mailto:binupanuransit@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/binupa-ariyarathna">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Binupa-21">
-<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="[https://.com](https://portfolio-website-six-pied-85.vercel.app/)">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-*"Engineering solutions that create measurable real-world impact."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4F46E5,50:7C3AED,100:9333EA"/>
+learning:
+  - Parallel Algorithms (HPC)
+  - Advanced Cloud Architecture
+building:
+  - Next-gen AR spatial interfaces
+exploring:
+  - Scalable IoT infrastructure
+open_to:
+  - Software Engineering Internships
+  - Research Collaborations
