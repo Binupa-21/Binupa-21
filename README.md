@@ -102,7 +102,7 @@ I have hands-on experience developing:
 </p>
 
 ---
-
+<!--
 # AI / ML Expertise
 
 | Domain | Proficiency | Details |
@@ -113,8 +113,7 @@ I have hands-on experience developing:
 | IoT Analytics | Intermediate | Sensor-driven monitoring systems |
 | Predictive Systems | Intermediate | Real-time monitoring and decision support |
 | Cloud-Based AI | Beginner | Exploring AWS AI ecosystem |
-
----
+-->
 
 # Featured Projects
 
