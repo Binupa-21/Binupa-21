@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FF8C00,50:FF6B35,100:1a1a1a&text=Binupa%20Ariyarathna&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FF8C00&center=true&vCenter=true&width=1000&lines=Computer+Engineering+Undergraduate;Software+Engineer;AI+%2F+ML+Enthusiast;HPC+Specialist"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FF8C00&center=true&vCenter=true&width=1000&lines=Computer+Engineering+Undergraduate;Software+Engineer;Full+Stack+Developer;IoT+%26+AR+Enthusiast;Cloud+Computing+Explorer"/>
 
 <br/>
 
@@ -45,7 +45,7 @@
 
 I am a **Computer Engineering undergraduate** at the **University of Sri Jayewardenepura**, specializing in **Computer Engineering** with a minor in **High Performance Computing**.
 
-My interests span across **Software Engineering, Full Stack Development, Artificial Intelligence, IoT Systems, Mobile Development, Cloud Computing, and Scalable Product Engineering**. I enjoy designing solutions that balance performance, scalability, and user experience.
+My interests span across **Software Engineering, Full Stack Development, Artificial Intelligence, IoT Systems, Mobile Development, Cloud Computing, and Scalable Product Engineering**. I enjoy designing and building scalable software solutions that solve real-world problems.
 
 I have hands-on experience developing:
 
@@ -237,6 +237,7 @@ Contributed to event promotion, media coordination, content creation, and projec
 ## Cisco
 
 ![Cisco](https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco)
+
 -->
 ---
 <!--
@@ -268,7 +269,7 @@ Contributed to event promotion, media coordination, content creation, and projec
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Binupa-21&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=FF8C00&icon_color=FF6B35&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Binupa-21&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=FF8C00&icon_color=FF6B35&text_color=FF8C00"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Binupa-21&theme=dark&hide_border=true&background=1a1a1a&ring=FF8C00&fire=FF6B35&stroke=FF7F50&currStreakLabel=FF8C00"/>
 
@@ -296,7 +297,7 @@ Contributed to event promotion, media coordination, content creation, and projec
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Binupa-21&theme=github&bg_color=1a1a1a&color=FF8C00&line=FF6B35&point=FF8C00&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Binupa-21&theme=github-light&bg_color=ffffff&color=0d6d0d&line=24292e&point=0d6d0d&area=true&hide_border=true"/>
 
 </div>
 
