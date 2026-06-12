@@ -197,20 +197,6 @@ A fast-paced arcade game developed entirely in C++ using SFML, focusing on softw
 </details>
 
 <details>
-<summary><b>CODENET — Full Stack Developer Platform</b></summary>
-
-### Overview
-
-A developer-focused platform featuring authentication, modern UI design, and scalable web architecture.
-
-| Category | Details |
-|-----------|-----------|
-| Stack | HTML, CSS, JavaScript, Firebase |
-| Scale | Web Application |
-| Performance | Responsive UI |
-| Security | Authentication Layer |
-| Impact | Developer networking and engagement |
-| Repository | Coming Soon |
 
 #### Highlights
 
@@ -247,22 +233,6 @@ Contributed to event promotion, media coordination, content creation, and projec
 
 ---
 
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|----------|
-| Best Video Editor | RI Year 2024–25 |
-| PR Team Leader | Scholastic Coach Project |
-| OC Member | YES'25 |
-| Academic Project Contributor | Multiple Engineering Projects |
-| Engineering Undergraduate | University of Sri Jayewardenepura |
-
-</div>
-
----
-
 # Certifications
 
 ## AWS
@@ -270,6 +240,8 @@ Contributed to event promotion, media coordination, content creation, and projec
 ![AWS](https://img.shields.io/badge/AWS-Educate%20Introduction%20to%20Cloud%20101-FF9900?style=for-the-badge&logo=amazonaws)
 
 ![AWS](https://img.shields.io/badge/AWS-Educate%20Getting%20Started%20with%20Storage-FF9900?style=for-the-badge&logo=amazonaws)
+
+<!--
 
 ## Oracle
 
@@ -282,9 +254,9 @@ Contributed to event promotion, media coordination, content creation, and projec
 ## Cisco
 
 ![Cisco](https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco)
-
+-->
 ---
-
+<!--
 # Coding Profiles
 
 <div align="center">
@@ -305,8 +277,8 @@ Contributed to event promotion, media coordination, content creation, and projec
 <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
 </a>
 
-</div>
-
+</div>*/
+-->
 ---
 
 # GitHub Analytics
@@ -401,7 +373,7 @@ Open_To:
 <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://your-portfolio-link.com">
+<a href="[https://.com](https://portfolio-website-six-pied-85.vercel.app/)">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
 </a>
 
