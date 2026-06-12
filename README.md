@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:9333EA&text=Binupa%20Ariyarathna&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FF8C00,50:FF6B35,100:1a1a1a&text=Binupa%20Ariyarathna&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Computer+Engineering+Undergraduate;Software+Engineer;AI+%2F+ML+Enthusiast;HPC+Specialist"/>
-
-<br/>
-
-![University](https://img.shields.io/badge/University-University%20of%20Sri%20Jayewardenepura-6D28D9?style=for-the-badge)
-![Faculty](https://img.shields.io/badge/Faculty-Engineering-7C3AED?style=for-the-badge)
-![Major](https://img.shields.io/badge/Major-Computer%20Engineering-8B5CF6?style=for-the-badge)
-![Minor](https://img.shields.io/badge/Minor-High%20Performance%20Computing-6366F1?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FF8C00&center=true&vCenter=true&width=1000&lines=Computer+Engineering+Undergraduate;Software+Engineer;AI+%2F+ML+Enthusiast;HPC+Specialist"/>
 
 <br/>
 
-![Location](https://img.shields.io/badge/Location-Sri%20Lanka-4338CA?style=for-the-badge)
+![University](https://img.shields.io/badge/University-University%20of%20Sri%20Jayewardenepura-FF8C00?style=for-the-badge)
+![Faculty](https://img.shields.io/badge/Faculty-Engineering-FF6B35?style=for-the-badge)
+![Major](https://img.shields.io/badge/Major-Computer%20Engineering-FFA500?style=for-the-badge)
+![Minor](https://img.shields.io/badge/Minor-High%20Performance%20Computing-FF7F50?style=for-the-badge)
+
+<br/>
+
+![Location](https://img.shields.io/badge/Location-Sri%20Lanka-2a2a2a?style=for-the-badge)
 
 <a href="https://github.com/Binupa-21">
 <img src="https://img.shields.io/badge/GitHub-Portfolio-111827?style=for-the-badge&logo=github"/>
@@ -28,14 +28,14 @@
 </a>
 
 <a href="https://github.com/Binupa-21">
-<img src="https://img.shields.io/badge/Profile-Visit-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Profile-Visit-FF8C00?style=for-the-badge"/>
 </a>
 
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=Binupa-21&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/Binupa-21?style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/stars/Binupa-21?affiliations=OWNER&style=for-the-badge&color=7C3AED)
+![](https://komarev.com/ghpvc/?username=Binupa-21&style=for-the-badge&color=FF8C00)
+![](https://img.shields.io/github/followers/Binupa-21?style=for-the-badge&color=FF8C00)
+![](https://img.shields.io/github/stars/Binupa-21?affiliations=OWNER&style=for-the-badge&color=FF8C00)
 
 </div>
 
@@ -220,9 +220,9 @@ Contributed to event promotion, media coordination, content creation, and projec
 
 ## AWS
 
-![AWS](https://img.shields.io/badge/AWS-Educate%20Introduction%20to%20Cloud%20101-FF9900?style=for-the-badge&logo=amazonaws)
+![AWS](https://img.shields.io/badge/AWS-Educate%20Introduction%20to%20Cloud%20101-FF8C00?style=for-the-badge&logo=amazonaws)
 
-![AWS](https://img.shields.io/badge/AWS-Educate%20Getting%20Started%20with%20Storage-FF9900?style=for-the-badge&logo=amazonaws)
+![AWS](https://img.shields.io/badge/AWS-Educate%20Getting%20Started%20with%20Storage-FF8C00?style=for-the-badge&logo=amazonaws)
 
 <!--
 
@@ -268,15 +268,15 @@ Contributed to event promotion, media coordination, content creation, and projec
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Binupa-21&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Binupa-21&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=FF8C00&icon_color=FF6B35&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Binupa-21&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Binupa-21&theme=dark&hide_border=true&background=1a1a1a&ring=FF8C00&fire=FF6B35&stroke=FF7F50&currStreakLabel=FF8C00"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binupa-21&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binupa-21&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=FF8C00&text_color=FF8C00"/>
 
 </div>
 
@@ -296,7 +296,7 @@ Contributed to event promotion, media coordination, content creation, and projec
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Binupa-21&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Binupa-21&theme=github&bg_color=1a1a1a&color=FF8C00&line=FF6B35&point=FF8C00&area=true&hide_border=true"/>
 
 </div>
 
@@ -306,7 +306,7 @@ Contributed to event promotion, media coordination, content creation, and projec
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Binupa-21/Binupa-21/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Binupa-21/Binupa-21/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
@@ -356,8 +356,8 @@ Open_To:
 <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="[https://.com](https://portfolio-website-six-pied-85.vercel.app/)">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
+<a href="https://portfolio-website-six-pied-85.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-FF8C00?style=for-the-badge"/>
 </a>
 
 </div>
@@ -370,4 +370,4 @@ Open_To:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4F46E5,50:7C3AED,100:9333EA"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF8C00,50:FF6B35,100:1a1a1a"/>
