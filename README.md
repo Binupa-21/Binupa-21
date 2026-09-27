@@ -81,7 +81,7 @@ I have hands-on experience developing:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,androidstudio,docker"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,androidstudio,docker,vercel,cloudflare"/>
 
 </p>
 
