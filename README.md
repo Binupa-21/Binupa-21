@@ -198,7 +198,7 @@ Contributed to event promotion, media coordination, content creation, and projec
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <img src="https://img.shields.io/badge/AWS-Educate%20Getting%20Started%20with%20Storage-FF8C00?style=for-the-badge&logo=amazonaws" alt="AWS Educate Getting Started With Storage"/>
       <br/>
       <b>AWS Educate Getting Started With Storage</b>
@@ -207,7 +207,7 @@ Contributed to event promotion, media coordination, content creation, and projec
       <br/>
       <img src="https://img.shields.io/badge/2026-FF8C00?style=for-the-badge" alt="2026 badge"/>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <img src="https://img.shields.io/badge/AWS-Educate%20Introduction%20to%20Cloud%20101-FF8C00?style=for-the-badge&logo=amazonaws" alt="AWS Educate Introduction to Cloud 101"/>
       <br/>
       <b>AWS Educate Introduction to Cloud 101</b>
@@ -216,7 +216,9 @@ Contributed to event promotion, media coordination, content creation, and projec
       <br/>
       <img src="https://img.shields.io/badge/2026-FF8C00?style=for-the-badge" alt="2026 badge"/>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <img src="https://img.shields.io/badge/AWS-Academy%20Graduate%20Cloud%20Foundations-FF8C00?style=for-the-badge&logo=amazonaws" alt="AWS Academy Graduate - Cloud Foundations"/>
       <br/>
       <b>AWS Academy Graduate - Cloud Foundations</b>
@@ -225,8 +227,6 @@ Contributed to event promotion, media coordination, content creation, and projec
       <br/>
       <img src="https://img.shields.io/badge/September%202026-FF8C00?style=for-the-badge" alt="September 2026 badge"/>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Anthropic-Claude%20101-8A2BE2?style=for-the-badge&logo=anthropic" alt="Claude 101"/>
       <br/>
@@ -236,7 +236,9 @@ Contributed to event promotion, media coordination, content creation, and projec
       <br/>
       <img src="https://img.shields.io/badge/June%202026-FF8C00?style=for-the-badge" alt="June 2026 badge"/>
     </td>
-    <td align="center" width="50%">
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <img src="https://img.shields.io/badge/Microsoft-AI%20Skills%20Fest%202026-0078D4?style=for-the-badge&logo=microsoft" alt="AI Skills Fest 2026"/>
       <br/>
       <b>AI Skills Fest 2026</b>
