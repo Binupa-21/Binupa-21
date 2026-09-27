@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FF8C00,50:FF6B35,100:1a1a1a&text=Binupa%20Ariyarathna&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FF8C00&center=true&vCenter=true&width=1000&lines=Computer+Engineering+Undergraduate;Software+Developer;DevOps+Engineer;IoT+Enthusiast;AI%2FML+Explorer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FF8C00&center=true&vCenter=true&width=1000&lines=Computer+Engineering+Undergraduate;Software+Developer;Full+Stack+Developer;IoT+Enthusiast;Cloud+Computing+Explorer"/>
 
 <br/>
 
@@ -27,8 +27,8 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/Binupa-21">
-<img src="https://img.shields.io/badge/Profile-Visit-FF8C00?style=for-the-badge"/>
+<a href="https://portfolio-website-six-pied-85.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-FF8C00?style=for-the-badge"/>
 </a>
 
 <br/><br/>
@@ -45,7 +45,7 @@
 
 I am a **Computer Engineering undergraduate** at the **University of Sri Jayewardenepura**, specializing in **Computer Engineering** with a minor in **High Performance Computing**.
 
-My interests span across **Software Engineering, Full Stack Development, Artificial Intelligence, IoT Systems, Mobile Development, Cloud Computing, and Scalable Product Engineering**. I enjoy designing scalable systems, solving complex problems, and creating technology that makes a tangible impact.
+My interests span across **Software Engineering, Full Stack Development, Artificial Intelligence, IoT Systems, Mobile Development, Cloud Computing, and Scalable Product Engineering**. I enjoy designing efficient solutions and exploring emerging technologies that solve real-world problems.
 
 I have hands-on experience developing:
 
@@ -179,18 +179,6 @@ A fast-paced arcade game developed entirely in C++ using SFML, focusing on softw
 
 </details>
 
-<details>
-
-#### Highlights
-
-- User authentication
-- Responsive design
-- Modern UI/UX
-- Cloud integration
-- Interactive features
-
-</details>
-
 ---
 
 # Experience
@@ -225,7 +213,6 @@ Contributed to event promotion, media coordination, content creation, and projec
 ![AWS](https://img.shields.io/badge/AWS-Educate%20Getting%20Started%20with%20Storage-FF8C00?style=for-the-badge&logo=amazonaws)
 
 <!--
-
 ## Oracle
 
 ![Oracle](https://img.shields.io/badge/Oracle-Learning%20Path-C74634?style=for-the-badge&logo=oracle)
@@ -237,9 +224,10 @@ Contributed to event promotion, media coordination, content creation, and projec
 ## Cisco
 
 ![Cisco](https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco)
-
 -->
+
 ---
+
 <!--
 # Coding Profiles
 
@@ -261,8 +249,9 @@ Contributed to event promotion, media coordination, content creation, and projec
 <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
 </a>
 
-</div>*/
+</div>
 -->
+
 ---
 
 # GitHub Analytics
@@ -298,16 +287,6 @@ Contributed to event promotion, media coordination, content creation, and projec
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Binupa-21&theme=github-dark&bg_color=1a1a1a&color=FF8C00&line=FF6B35&point=FF8C00&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Binupa-21/Binupa-21/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
