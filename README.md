@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FF8C00,50:FF6B35,100:1a1a1a&text=Binupa%20Ariyarathna&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FF8C00&center=true&vCenter=true&width=1000&lines=Computer+Engineering+Undergraduate;Software+Engineer;Full+Stack+Developer;IoT+Enthusiast;AI%2FML+Explorer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FF8C00&center=true&vCenter=true&width=1000&lines=Computer+Engineering+Undergraduate;Software+Developer;DevOps+Engineer;IoT+Enthusiast;AI%2FML+Explorer"/>
 
 <br/>
 
