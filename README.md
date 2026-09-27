@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FF8C00,50:FF6B35,100:1a1a1a&text=Binupa%20Ariyarathna&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FF8C00,50:FF6B35,100:1a1a1a&text=Binupa%20Ariyarathna&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" alt="Binupa Ariyarathna banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FF8C00&center=true&vCenter=true&width=1000&lines=Computer+Engineering+Undergraduate;Software+Developer;Full+Stack+Developer;IoT+Enthusiast;Cloud+Computing+Explorer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FF8C00&center=true&vCenter=true&width=1000&lines=Computer+Engineering+Undergraduate;Software+Developer;Full+Stack+Engineer;AI+and+IoT+Enthusiast" alt="Typing SVG"/>
 
 <br/>
 
@@ -16,19 +16,19 @@
 ![Location](https://img.shields.io/badge/Location-Sri%20Lanka-2a2a2a?style=for-the-badge)
 
 <a href="https://github.com/Binupa-21">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-111827?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Portfolio-111827?style=for-the-badge&logo=github" alt="GitHub Portfolio"/>
 </a>
 
 <a href="https://linkedin.com/in/binupa-ariyarathna">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:binupanuransit@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
 </a>
 
 <a href="https://portfolio-website-six-pied-85.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-FF8C00?style=for-the-badge" alt="Portfolio"/>
 </a>
 
 <br/><br/>
@@ -45,7 +45,7 @@
 
 I am a **Computer Engineering undergraduate** at the **University of Sri Jayewardenepura**, specializing in **Computer Engineering** with a minor in **High Performance Computing**.
 
-My interests span across **Software Engineering, Full Stack Development, Artificial Intelligence, IoT Systems, Mobile Development, Cloud Computing, and Scalable Product Engineering**. I enjoy designing efficient solutions and exploring emerging technologies that solve real-world problems.
+My interests span across **Software Engineering, Full Stack Development, Artificial Intelligence, IoT Systems, Mobile Development, Cloud Computing, and Scalable Product Engineering**. I enjoy designing and building systems that bridge real-world impact with technical depth.
 
 I have hands-on experience developing:
 
@@ -73,7 +73,7 @@ I have hands-on experience developing:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,kotlin,html,css"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,kotlin,html,css" alt="Languages"/>
 
 </p>
 
@@ -81,23 +81,11 @@ I have hands-on experience developing:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,androidstudio,docker,vercel,cloudflare"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,androidstudio,docker,vercel,cloudflare" alt="Cloud and tooling"/>
 
 </p>
 
 ---
-<!--
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|------------|
-| Machine Learning | Intermediate | Model training, evaluation, feature engineering |
-| Data Analytics | Intermediate | Data preprocessing and visualization |
-| Computer Vision | Beginner–Intermediate | Image processing fundamentals |
-| IoT Analytics | Intermediate | Sensor-driven monitoring systems |
-| Predictive Systems | Intermediate | Real-time monitoring and decision support |
-| Cloud-Based AI | Beginner | Exploring AWS AI ecosystem |
--->
 
 # Featured Projects
 
@@ -206,51 +194,61 @@ Contributed to event promotion, media coordination, content creation, and projec
 
 # Certifications
 
-## AWS
-
-![AWS](https://img.shields.io/badge/AWS-Educate%20Introduction%20to%20Cloud%20101-FF8C00?style=for-the-badge&logo=amazonaws)
-
-![AWS](https://img.shields.io/badge/AWS-Educate%20Getting%20Started%20with%20Storage-FF8C00?style=for-the-badge&logo=amazonaws)
-
-<!--
-## Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Learning%20Path-C74634?style=for-the-badge&logo=oracle)
-
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Courses-5B21B6?style=for-the-badge)
-
-## Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco)
--->
-
----
-
-<!--
-# Coding Profiles
-
 <div align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
-</a>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/AWS-Educate%20Getting%20Started%20with%20Storage-FF8C00?style=for-the-badge&logo=amazonaws" alt="AWS Educate Getting Started With Storage"/>
+      <br/>
+      <b>AWS Educate Getting Started With Storage</b>
+      <br/>
+      Amazon Web Services
+      <br/>
+      <img src="https://img.shields.io/badge/2026-FF8C00?style=for-the-badge" alt="2026"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/AWS-Educate%20Introduction%20to%20Cloud%20101-FF8C00?style=for-the-badge&logo=amazonaws" alt="AWS Educate Introduction to Cloud 101"/>
+      <br/>
+      <b>AWS Educate Introduction to Cloud 101</b>
+      <br/>
+      Amazon Web Services
+      <br/>
+      <img src="https://img.shields.io/badge/2026-FF8C00?style=for-the-badge" alt="2026"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/AWS-Academy%20Graduate%20Cloud%20Foundations-FF8C00?style=for-the-badge&logo=amazonaws" alt="AWS Academy Graduate - Cloud Foundations"/>
+      <br/>
+      <b>AWS Academy Graduate - Cloud Foundations</b>
+      <br/>
+      Amazon Web Services
+      <br/>
+      <img src="https://img.shields.io/badge/September%202026-FF8C00?style=for-the-badge" alt="September 2026"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Anthropic-Claude%20101-8A2BE2?style=for-the-badge&logo=anthropic" alt="Claude 101"/>
+      <br/>
+      <b>Claude 101</b>
+      <br/>
+      Anthropic
+      <br/>
+      <img src="https://img.shields.io/badge/June%202026-FF8C00?style=for-the-badge" alt="June 2026"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Microsoft-AI%20Skills%20Fest%202026-0078D4?style=for-the-badge&logo=microsoft" alt="AI Skills Fest 2026"/>
+      <br/>
+      <b>AI Skills Fest 2026</b>
+      <br/>
+      Microsoft
+      <br/>
+      <img src="https://img.shields.io/badge/June%202026-FF8C00?style=for-the-badge" alt="June 2026"/>
+    </td>
+  </tr>
+</table>
 
 </div>
--->
 
 ---
 
@@ -258,15 +256,15 @@ Contributed to event promotion, media coordination, content creation, and projec
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Binupa-21&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=FF8C00&icon_color=FF6B35&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Binupa-21&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=FF8C00&icon_color=FF6B35&text_color=ffffff&rank_icon=github" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Binupa-21&theme=dark&hide_border=true&background=1a1a1a&ring=FF8C00&fire=FF6B35&stroke=FF7F50&currStreakLabel=FF8C00"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=Binupa-21&theme=dark&hide_border=true&background=1a1a1a&ring=FF8C00&fire=FF6B35&stroke=FF7F50&currStreakLabel=FF8C00" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binupa-21&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=FF8C00&text_color=FF8C00"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binupa-21&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=FF8C00&text_color=FF8C00" alt="Most Used Languages"/>
 
 </div>
 
@@ -276,7 +274,7 @@ Contributed to event promotion, media coordination, content creation, and projec
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Binupa-21&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Binupa-21&theme=algolia&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -286,7 +284,7 @@ Contributed to event promotion, media coordination, content creation, and projec
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Binupa-21&theme=github-dark&bg_color=1a1a1a&color=FF8C00&line=FF6B35&point=FF8C00&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Binupa-21&theme=github-dark&bg_color=1a1a1a&color=FF8C00&line=FF6B35&point=FF8C00&area=true&hide_border=true" alt="Contribution Activity Graph"/>
 
 </div>
 
@@ -325,19 +323,19 @@ Open_To:
 <div align="center">
 
 <a href="mailto:binupanuransit@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Gmail"/>
 </a>
 
 <a href="https://linkedin.com/in/binupa-ariyarathna">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Binupa-21">
-<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
 <a href="https://portfolio-website-six-pied-85.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-FF8C00?style=for-the-badge" alt="Portfolio"/>
 </a>
 
 </div>
@@ -350,4 +348,4 @@ Open_To:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF8C00,50:FF6B35,100:1a1a1a"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF8C00,50:FF6B35,100:1a1a1a" alt="Footer banner"/>
