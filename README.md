@@ -81,7 +81,7 @@ I have hands-on experience developing:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,androidstudio,docker,vercel,cloudflare" alt="Cloud and tooling"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,androidstudio,docker,vercel,cloudflare" alt="Cloud and DevOps tools"/>
 
 </p>
 
@@ -205,7 +205,7 @@ Contributed to event promotion, media coordination, content creation, and projec
       <br/>
       Amazon Web Services
       <br/>
-      <img src="https://img.shields.io/badge/2026-FF8C00?style=for-the-badge" alt="2026"/>
+      <img src="https://img.shields.io/badge/2026-FF8C00?style=for-the-badge" alt="2026 badge"/>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/AWS-Educate%20Introduction%20to%20Cloud%20101-FF8C00?style=for-the-badge&logo=amazonaws" alt="AWS Educate Introduction to Cloud 101"/>
@@ -214,7 +214,7 @@ Contributed to event promotion, media coordination, content creation, and projec
       <br/>
       Amazon Web Services
       <br/>
-      <img src="https://img.shields.io/badge/2026-FF8C00?style=for-the-badge" alt="2026"/>
+      <img src="https://img.shields.io/badge/2026-FF8C00?style=for-the-badge" alt="2026 badge"/>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/AWS-Academy%20Graduate%20Cloud%20Foundations-FF8C00?style=for-the-badge&logo=amazonaws" alt="AWS Academy Graduate - Cloud Foundations"/>
@@ -223,7 +223,7 @@ Contributed to event promotion, media coordination, content creation, and projec
       <br/>
       Amazon Web Services
       <br/>
-      <img src="https://img.shields.io/badge/September%202026-FF8C00?style=for-the-badge" alt="September 2026"/>
+      <img src="https://img.shields.io/badge/September%202026-FF8C00?style=for-the-badge" alt="September 2026 badge"/>
     </td>
   </tr>
   <tr>
@@ -234,7 +234,7 @@ Contributed to event promotion, media coordination, content creation, and projec
       <br/>
       Anthropic
       <br/>
-      <img src="https://img.shields.io/badge/June%202026-FF8C00?style=for-the-badge" alt="June 2026"/>
+      <img src="https://img.shields.io/badge/June%202026-FF8C00?style=for-the-badge" alt="June 2026 badge"/>
     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Microsoft-AI%20Skills%20Fest%202026-0078D4?style=for-the-badge&logo=microsoft" alt="AI Skills Fest 2026"/>
@@ -243,7 +243,7 @@ Contributed to event promotion, media coordination, content creation, and projec
       <br/>
       Microsoft
       <br/>
-      <img src="https://img.shields.io/badge/June%202026-FF8C00?style=for-the-badge" alt="June 2026"/>
+      <img src="https://img.shields.io/badge/June%202026-FF8C00?style=for-the-badge" alt="June 2026 badge"/>
     </td>
   </tr>
 </table>
@@ -256,15 +256,15 @@ Contributed to event promotion, media coordination, content creation, and projec
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Binupa-21&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=FF8C00&icon_color=FF6B35&text_color=ffffff&rank_icon=github" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Binupa-21&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF8C00&icon_color=FF6B35&text_color=ffffff&rank_icon=github" alt="GitHub stats"/>
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=Binupa-21&theme=dark&hide_border=true&background=1a1a1a&ring=FF8C00&fire=FF6B35&stroke=FF7F50&currStreakLabel=FF8C00" alt="GitHub Streak"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=Binupa-21&theme=dark&hide_border=true&background=0d1117&ring=FF8C00&fire=FF6B35&stroke=FF7F50&currStreakLabel=FF8C00" alt="GitHub streak"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binupa-21&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=FF8C00&text_color=FF8C00" alt="Most Used Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binupa-21&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF8C00&text_color=FF8C00" alt="Most used languages"/>
 
 </div>
 
@@ -274,7 +274,7 @@ Contributed to event promotion, media coordination, content creation, and projec
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Binupa-21&theme=algolia&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Binupa-21&theme=algolia&no-frame=true&row=2&column=4" alt="GitHub trophies"/>
 
 </div>
 
@@ -284,7 +284,7 @@ Contributed to event promotion, media coordination, content creation, and projec
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Binupa-21&theme=github-dark&bg_color=1a1a1a&color=FF8C00&line=FF6B35&point=FF8C00&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Binupa-21&theme=github-dark&bg_color=1a1a1a&color=FF8C00&line=FF6B35&point=FF8C00&area=true&hide_border=true" alt="Contribution activity graph"/>
 
 </div>
 
